@@ -1,19 +1,23 @@
-...»òÔÚÃüÁîĞĞÉÏ´´½¨ĞÂµÄ´æ´¢¿â
+è®¾ç½®ç”¨æˆ·åï¼Œé‚®ç®±
+git config --global user.name "youname"
+git config --global user.email "youeamil@email.com"
+æŸ¥çœ‹é…ç½®ï¼š
+git config -l
 
-echo¡°££¼ÇÊÂ±¾¡±>> README.md 
+echoâ€œï¼ƒè®°äº‹æœ¬â€>> README.md 
 git init 
 git add README.md 
-git commit -m¡°first commit¡± 
+git commit -mâ€œfirst commitâ€ 
 git remote add origin https://github.com/LifeSimpleLwq/Notepad.git
 git push -u origin master
 
-...»ò´ÓÃüÁîĞĞÍÆËÍÏÖÓĞ´æ´¢¿â¡¢
+...æˆ–ä»å‘½ä»¤è¡Œæ¨é€ç°æœ‰å­˜å‚¨åº“ã€
 git remote add origin https://github.com/LifeSimpleLwq/Notepad.git
- git push -u origin master
+git push -u origin master
 
-...»ò´ÓÁíÒ»¸ö´æ´¢¿âµ¼Èë´úÂë
-Äú¿ÉÒÔÊ¹ÓÃSubversion£¬Mercurial»òTFSÏîÄ¿µÄ´úÂë³õÊ¼»¯´Ë´æ´¢¿â¡£
+...æˆ–ä»å¦ä¸€ä¸ªå­˜å‚¨åº“å¯¼å…¥ä»£ç 
+æ‚¨å¯ä»¥ä½¿ç”¨Subversionï¼ŒMercurialæˆ–TFSé¡¹ç›®çš„ä»£ç åˆå§‹åŒ–æ­¤å­˜å‚¨åº“ã€‚
 
 
 
-²Î¿¼²©¿Í£ºhttp://www.cnblogs.com/cxk1995/p/5800196.html
+å‚è€ƒåšå®¢ï¼šhttp://www.cnblogs.com/cxk1995/p/5800196.html
